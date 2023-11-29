@@ -1,0 +1,10 @@
+{
+    "printWidth": 120,
+    "tabWidth": 4,
+    "htmlWhitespaceSensitivity": "ignore",
+    "singleQuote": true,
+    "arrowParens": "always",
+    "vueIndentScriptAndStyle": true,
+    "bracketSameLine": false,
+    "plugins": ["prettier-plugin-tailwindcss"]
+}
